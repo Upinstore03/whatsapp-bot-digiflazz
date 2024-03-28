@@ -1,0 +1,25 @@
+{
+  "digiflazz": {
+    "usernamekey": " ",
+    "productionkey": " "
+  },
+  "atlanticpedia": {
+    "atlantickey": " "
+  },
+  "vip_reseller": {
+    "resellerkey": " ",
+    "reselleridkey": " "
+  },
+  "apigames": {
+    "merchantapigames": " ",
+    "secretapigames": " ",
+    "signatureapigames": " "
+  },
+  "paydisini": {
+    "apikeypaydisini": " ",
+    "url_paydisini": " "
+  },
+  "mongodb": {
+    "url_mongodb": " "
+  }
+}
