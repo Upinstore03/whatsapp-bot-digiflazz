@@ -74,7 +74,7 @@ global.minimaldepo = "10000";
 global.minimallimit = "100";
 // End Minimal
 
-global.nomorKu = "6282264748013@s.whatsapp.net"
+global.nomorKu = "628******@s.whatsapp.net"
 global.packname = "Upin_Store";
 global.author = "Farhat-Dayan";
 global.session = "farhat-session";
