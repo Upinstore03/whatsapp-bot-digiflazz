@@ -2,11 +2,17 @@
 
 - Ganti profil admin ./setting/config.js (Ln 77)
 - Ganti Apikey Anda Pada ./src/api_key.json
+
+
+  
 ```sh
 global.nomorKu = "628******@s.whatsapp.net" \\ Nomor admin (bukan bot)
 global.packname = " "; \\ Ganti aja terserah
 global.author = " "; \\ Terserah 
 ```
+
+
+
 ```sh
 {
   "digiflazz": {
